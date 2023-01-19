@@ -1,0 +1,35 @@
+governnce team.....
+
+AWS structure for us::::
+==============================================================================
+FTDEV nd LAB.. majorly managed by us.... 
+LAB is kind of playground... (TSO lab - use majorly)
+
+AZfoudation---- CodePipeline , etc
+SecFoundation ---- GuardDuty etc..
+
+
+
+account creation and governance.
+how do we know thee
+ansible tower???
+
+aws organization??
+
+================================================================================================================
+
+4 regions being used rn... us-east-1,2 and us-west-1,2... scps present which won't allow resource creation outside this ...
+Version Control for CloudFormation templates? code is in github......
+create stackset, import the template.
+
+============================================================================================================================
+
+AMIs.... 
+
+containers... ECS, EKS? 
+
+=============================================================================================================================
+cert vouchers? POCs?
+
+how much terraform is diff from cloudformation?
+Do we have more docs?
